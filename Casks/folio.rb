@@ -1,6 +1,6 @@
 cask "folio" do
-  version "1.6.0"
-  sha256 "9d4a57bebcb58c8e70c10ce2d2b2824e59e8685d0b10740439df45c0a1acbb57"
+  version "1.6.1"
+  sha256 "bcf468084e1b038acdda4b5a54ca99d6d97c8ecad03371823338072c2b04ff54"
 
   url "https://github.com/tonyfadel23/folio/releases/download/v#{version}/Folio-#{version}.dmg",
       verified: "github.com/tonyfadel23/folio/"
